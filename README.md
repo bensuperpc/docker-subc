@@ -1,2 +1,3 @@
-# docker-compiler-multi-arch
-docker-compiler template
+# docker-subc
+subc compiler in docker
+just run ./compiler.sh scc -h
